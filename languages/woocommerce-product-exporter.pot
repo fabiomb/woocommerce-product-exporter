@@ -1,0 +1,29 @@
+msgid "Export Products"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "Product Title"
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Slug"
+msgstr ""
+
+msgid "Download CSV"
+msgstr ""
+
+msgid "No products found."
+msgstr ""
+
+msgid "Export completed successfully."
+msgstr ""
+
+msgid "An error occurred during export."
+msgstr ""
+
+msgid "WooCommerce Product Exporter"
+msgstr ""
